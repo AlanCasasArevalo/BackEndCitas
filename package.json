@@ -4,6 +4,7 @@
   "description": "API REST para la gestion de clientes de una empresa de fisioterapia",
   "main": "index.js",
   "scripts": {
+    "start" : "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Alan Casas",
